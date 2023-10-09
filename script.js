@@ -15,6 +15,7 @@ for (let i = 0; i < buttonsElem.length; i++) {
   });
 }
 
+// functions
 function clearResult() {
   inputField.value = "";
 }
